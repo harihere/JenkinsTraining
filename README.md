@@ -1,2 +1,1 @@
-# JenkinsTraining
-Training 
+# ExampleJenkins
